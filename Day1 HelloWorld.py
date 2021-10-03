@@ -1,4 +1,3 @@
-
 # Print a string literal saying "Hello, World." to stdout
 
 input_string = input()
