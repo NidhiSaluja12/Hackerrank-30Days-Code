@@ -3,6 +3,7 @@ if __name__ == '__main__':
     
 
 count = 0
+
 while n:
     n &= n << 1
     count += 1
