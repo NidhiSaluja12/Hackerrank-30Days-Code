@@ -12,9 +12,6 @@ def hourGlassSum(arr):
     return maxSum
             
             
-
-
-
 if __name__ == '__main__':
 
     arr = []
