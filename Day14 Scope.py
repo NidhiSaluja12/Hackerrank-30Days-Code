@@ -4,7 +4,7 @@ class Difference:
     def computeDifference(self):
         self.maximumDifference = max(a)-min(a)
         return
-# End of Difference class
+
 
 _ = input()
 a = [int(e) for e in input().split(' ')]
