@@ -15,7 +15,8 @@ class MyBook(Book):
         print("Title: "+ title)
         print("Author: "+ author)
         print("Price: "+ str(price))
-#Write MyBook class
+
+
 
 title=input()
 author=input()
