@@ -19,7 +19,6 @@ class Solution:
             self.tail = node
         return head 
         
-   
 mylist= Solution()
 T=int(input())
 head=None
