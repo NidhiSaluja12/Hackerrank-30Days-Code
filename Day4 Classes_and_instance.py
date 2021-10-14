@@ -7,7 +7,6 @@ class Person:
         else:
             self.age = initialAge
 
-
     def amIOld(self):
         # Do some computations in here and print out the correct statement to the console
         if age < 13:
