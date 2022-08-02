@@ -5,7 +5,6 @@ class Difference:
         self.maximumDifference = max(a)-min(a)
         return
 
-
 _ = input()
 a = [int(e) for e in input().split(' ')]
 
