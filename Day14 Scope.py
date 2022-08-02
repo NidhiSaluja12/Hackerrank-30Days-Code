@@ -6,6 +6,7 @@ class Difference:
         return
 
 _ = input()
+
 a = [int(e) for e in input().split(' ')]
 
 d = Difference(a)
