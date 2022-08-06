@@ -1,4 +1,4 @@
-from abc import ABCMeta, abstractmethod
+Esfrom abc import ABCMeta, abstractmethod
 
 class Book(object, metaclass=ABCMeta):
     def __init__(self,title,author):
@@ -6,6 +6,7 @@ class Book(object, metaclass=ABCMeta):
         self.author=author   
     @abstractmethod
     def display(): pass
+
 
 
 
