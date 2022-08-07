@@ -5,7 +5,6 @@ import re
 import sys
 
 
-
 def solve(meal_cost, tip_percent, tax_percent):
     
     tip = (tip_percent*meal_cost)/100
