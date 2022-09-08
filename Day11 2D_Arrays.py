@@ -1,6 +1,7 @@
 def hourGlassSum(arr):
     maxSum = -99
 
+
     for i in range (4):
         for j in range(4):
             top = sum(arr[i][j:j+3])
